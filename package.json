@@ -1,0 +1,15 @@
+{
+  "name": "version-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "author": "Jexactyl",
+  "license": "MIT",
+  "dependencies": {
+    "enmap": "^5.9.2",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.10"
+  }
+}
