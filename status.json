@@ -1,8 +1,8 @@
 {
   "daemon": "0.9.999",
-  "panel": "undefined",
-  "wings": "undefined",
+  "panel": "1.11.5",
+  "wings": "1.11.4",
   "sftp": "1.0.5",
   "discord": "https://discord.gg/Wf8Eycz4Tq",
-  "lastSynced":"undefined"
+  "lastSynced":"11:09:36 PM"
 }
